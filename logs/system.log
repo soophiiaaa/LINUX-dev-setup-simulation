@@ -1,0 +1,4 @@
+[INFO] Criação de grupo 'devs' em 15/07/2025 às 10:00
+[INFO] Usuário 'sophia' adicionado ao grupo 'devs'
+[INFO] Usuário 'pedro' adicionado ao grupo 'devs'
+[WARN] Tentativa de adicionar usuário inexistente 'joao' ao grupo 'devs'
