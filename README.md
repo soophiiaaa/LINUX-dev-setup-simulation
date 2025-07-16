@@ -4,7 +4,7 @@ Este repositório foi criado com o objetivo de simular um ambiente realista de d
 
 ---
 
-## 🧩 Organização
+## Organização
 
 Este projeto está dividido em pastas que representam partes reais de um ambiente de trabalho:
 
@@ -15,7 +15,7 @@ Este projeto está dividido em pastas que representam partes reais de um ambient
 
 ---
 
-## 🚀 Como usar
+## Como usar
 
 1. Clone o repositório ou baixe o conteúdo.
 2. Navegue pelas pastas no terminal.
@@ -24,7 +24,7 @@ Este projeto está dividido em pastas que representam partes reais de um ambient
 
 ---
 
-## 📝 Observações
+## Observações
 
 - Este projeto é **educacional e de simulação**, ou seja, nenhum dos usuários criados ou arquivos representam dados reais.
 - Recomendado rodar em um ambiente de testes (como uma VM).
